@@ -1,0 +1,23 @@
+.auth-image {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 55%;
+  height: 100vh;
+  background-color: rgba(189, 195, 199, .6);
+  justify-content: center;
+  align-items: center;
+}
+
+.form-content {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+  top: 0;
+  right: 0;
+  width: 45%;
+  height: 100vh;
+  background-color: rgba(236, 240, 241,1.0);
+}
